@@ -1,0 +1,2 @@
+USERNAME = 'faguilar'
+PASSWORD = 'Yc6LUgJzDH%407iAy'
